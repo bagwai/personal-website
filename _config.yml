@@ -32,15 +32,15 @@ social_media:
   # dribbble: your_username
   facebook: timex4u
   linkedin: timtech4u
-  medium: timtech4u
+  medium: @timtech4u
   stackoverflow: 4620227
   twitter: timtech4u
   # youtube: your_username
 
 topics:
-  - name: EcmaScript
-    web_url: https://github.com/topics/es6
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
   - name: Python
     web_url: https://github.com/topics/python
