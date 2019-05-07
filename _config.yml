@@ -47,8 +47,22 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: http://aux.iconspalace.com/uploads/1637531540241015194.png
+
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: http://icons.iconarchive.com/icons/iconstoc/vintage-social/256/html-5-icon.png
+  
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://juststickers.in/wp-content/uploads/2019/01/flutter.png
+
+  - name: Django
+    web_url: https://github.com/topics/django
+    image_url: https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png
+
+
 
 theme: jekyll-theme-slate
