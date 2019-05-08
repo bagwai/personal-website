@@ -1,7 +1,4 @@
---
-title: "Ramadan Khareem Message"
-published: true
----
+
 
 **Hello Friends**, This is My Ramadan Message.
 
