@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Github Website Generator!"
-published: false
+published: true
 ---
 
 **Hello world**, this is my first Jekyll blog post.
